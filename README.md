@@ -35,6 +35,7 @@ Jde o třetí verzi skriptů (proto *...v3*), kde se již využívá příkazu `
 - Zdrojová data pro provedení `startv3.php`, která zasíláte do HC aplikace - MyLoan. 
 - Zde si upravujete číslo objednávky, data o klientovi a zboží
 - Můžete si zde případně i nastavit klientem preferované splátky, které jste si uložili z widget kalkulačky v detailu produktu - *Toto neplatí pro eshopy v režimu Tipař - tito mohou použít pouze kalkulačku Standalone, která údaje o klientem preferované variantě nepřenáší.*
+- Pozor. Ceny se zadávají v haléřích!
 
 ## Rozšiřující zdrojové skripty
 Následující funkce nemusíte nutně použít. Stavy se e-shopům zobrazují v obslužné aplikaci Webclient. 
